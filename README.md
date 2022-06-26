@@ -1,12 +1,14 @@
 # ml-project-workflow
 
+!["Machine Learning workflow"](./assets/Mle%20drawing%20-%20page%201.png)
+
 Bonjour !!
 
 Je me présente, je m'appelle `INSERER` et je serai votre mentor projet tout au long de cette formation :visage_légèrement_souriant:
 
 Comment se passe un projet fil rouge dans le cadre d’une formation bootcamp DS avec DataScientest ? Et bien il suffit de suivre ces quelques étapes. Pour information, ces étapes sont pensées pour que votre projet se passe au mieux, c’est-à-dire sans problème de dernière minute et avec un rendu final à la hauteur de vos capacités.
 
-Le projet qui vous a été assigné est : `INSERER`
+Le projet qui vous a été assigné est : `INSERER LIEN`
 
 0. Cadrage : Définition du contexte et du périmètre du projet:
 
