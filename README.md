@@ -31,7 +31,7 @@ Lors de cette première étape, j’attends que :
 
 Ce dernier point nous permettra par la suite d'instancier éventuellement un répertoire **GitHub**.
 
->* Deadline `Vendredi 30 avril 2022`
+>* Deadline `Vendredi 30 Juillet 2022`
 	
 1. **Ingénierie des données + EDA  :**
 
@@ -56,7 +56,7 @@ Pour chaque visualisation, j’attends  :
 * Un commentaire précis, qui analyse la figure et apporte un avis “métier”.
 * Une validation du constat par des manipulations de données, ou un test statistique.
 
->* Deadline :  `Deadline Vendredi 7 mai 2022`
+>* Deadline :  `Deadline Vendredi 5 Août 2022`
 
 2. **Ingénierie du modèle statistique ou réalisation d'une analyse des données  :**
 
@@ -72,20 +72,20 @@ Par contre, si l'objectif est la l'utilisation des données nettoyées pour réa
 
 Dans tous les cas, **4 itérations** sont attendues  : 
 * *Itération 1*  :  Élaboration d’un modèle simple et premières itérations.
-`Deadline :  Vendredi 14 mai 2022`
+`Deadline :  Jeudi 11 Août 2022`
 
 * *Itération 2*  :  Interprétations  :  Cherchez à comprendre vos premiers résultats, vos premières erreurs etc. 
-`Deadline :  Vendredi 21 mai 2022`
+`Deadline :  Jeudi 1er Septembre 2022`
 
 * *Itération 3*  :  Conclusions scientifiques et métiers en fonction du succès ou de l’échec de la modélisation. En cas d’échec, analysez les causes.
-`Deadline :  Vendredi 28 mai 2022`
+`Deadline :  Vendredi 09 Septembre 2022`
 
 * *Itération 4* :  Rapport de modélisation et nettoyage des codes.
-`Deadline :  Vendredi 3 juin  2022`
+`Deadline :  Vendredi 16 Septembre 2022`
 
-A l'issue des précédentes itérations, vous devrez alors rendre votre **rapport final ainsi que vos codes** pour le `Vendredi 10 juin 2022`.
+A l'issue des précédentes itérations, vous devrez alors rendre votre **rapport final ainsi que vos codes** pour le `Vendredi 23 Septembre 2022`.
 
-3. **Préparation de la soutenance  :** `Deadline :  Mercredi 29/ Jeudi 30 juin 2022`
+3. **Préparation de la soutenance  :** `Deadline :  Mercredi 12 / Jeudi 13 Septembre 2022`
 
 Cette dernière étape servira à développer **une application web interactive** grâce à la librairie **Streamlit** qui servira de vitrine pour partager votre projet.
 
