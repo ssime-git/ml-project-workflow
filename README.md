@@ -85,7 +85,7 @@ Dans tous les cas, **4 itérations** sont attendues  :
 
 A l'issue des précédentes itérations, vous devrez alors rendre votre **rapport final ainsi que vos codes** pour le `Vendredi 23 Septembre 2022`.
 
-3. **Préparation de la soutenance  :** `Deadline :  Mercredi 12 / Jeudi 13 Septembre 2022`
+3. **Préparation de la soutenance  :** `Deadline :  Mercredi 12 / Jeudi 13 Octobre 2022`
 
 Cette dernière étape servira à développer **une application web interactive** grâce à la librairie **Streamlit** qui servira de vitrine pour partager votre projet.
 
