@@ -25,88 +25,92 @@ Concrètement dans le cadre de projet chez DataScientest, il vous suffit de suiv
 0. **Cadrage  :**  Définition du contexte et du périmètre du projet
 ___
 
-	Lors de cette première étape, j’attends que : 
+Lors de cette première étape, j’attends que : 
 
-	* vous preniez vraiment le temps de bien comprendre le projet et de vous renseigner au mieux sur les notions que celui-ci va introduire,
-	* vous donniez un nom plutôt créatif à votre projet (contenant ‘Py’ en référence à **Python** par exemple).
+- [ ] vous preniez vraiment le temps de bien comprendre le projet et de vous renseigner au mieux sur les notions que celui-ci va introduire,
+- [ ] vous donniez un nom plutôt créatif à votre projet (contenant ‘Py’ en référence à **Python** par exemple).
 
-	Ce dernier point nous permettra par la suite d'instancier éventuellement un répertoire **GitHub**.
+Ce dernier point nous permettra par la suite d'instancier éventuellement un répertoire **GitHub**.
 
-	>* Deadline `Vendredi 30 Juillet 2022`
+>* Deadline `Vendredi 30 Juillet 2022`
 	
 1. **Ingénierie des données + EDA  :**
 ___
 
-	Quelques étapes de ce processus sont données ci-dessous  :   
+Quelques étapes de ce processus sont données ci-dessous  :   
 
-	* *Ingestion de données* :  Collecte de données à l’aide de divers frameworks et formats, tels que Spark, HDFS, CSV, etc. Cette étape peut également inclure la génération ou l’enrichissement de données. 
+- [ ] *Ingestion de données* :  Collecte de données à l’aide de divers frameworks et formats, tels que Spark, HDFS, CSV, etc. Cette étape peut également inclure la génération ou l’enrichissement de données. 
 
-	* *Exploration et validation* :  Cette étape est composée du profilage des données pour obtenir des informations sur le contenu et la structure des données. La sortie de cette étape est un ensemble de métadonnées, telles que les valeurs maximums, minimums et moyennes. Les opérations de validation des données peuvent être réalisées au moyen de fonctions de détection d’erreurs définies par l’utilisateur, qui analyseraient le jeu de données afin de repérer certaines erreurs.  
+- [ ] *Exploration et validation* :  Cette étape est composée du profilage des données pour obtenir des informations sur le contenu et la structure des données. La sortie de cette étape est un ensemble de métadonnées, telles que les valeurs maximums, minimums et moyennes. Les opérations de validation des données peuvent être réalisées au moyen de fonctions de détection d’erreurs définies par l’utilisateur, qui analyseraient le jeu de données afin de repérer certaines erreurs.  
 
-	* *Data Wrangling (ou data Cleaning)* :  Cette étape correspond au processus de reformatage de certains attributs particuliers et de correction d’erreurs dans les données telles que  :  l’imputation de valeurs manquantes, la suppression de lignes en double etc.  
+- [ ] *Data Wrangling (ou data Cleaning)* :  Cette étape correspond au processus de reformatage de certains attributs particuliers et de correction d’erreurs dans les données telles que  :  l’imputation de valeurs manquantes, la suppression de lignes en double etc.  
 
-	* *Fractionnement des données* :  Le fractionnement des données en jeux de données d’entrainement, de validation et de test à utiliser pendant le processus d’apprentissage automatique pour produire le modèle de ML. 
+- [ ] *Fractionnement des données* :  Le fractionnement des données en jeux de données d’entrainement, de validation et de test à utiliser pendant le processus d’apprentissage automatique pour produire le modèle de ML. 
 
-	Le but de cette étape est de nettoyer votre jeu de données pour réaliser une analyse exploratoire presque exhaustive de ce dernier.
+Le but de cette étape est de nettoyer votre jeu de données pour réaliser une analyse exploratoire presque exhaustive de ce dernier.
 
-	Les objectifs de cette étapes sont : 
+Les objectifs de cette étapes sont : 
 
-	* produire des visualisations pertinentes expliquant la structure / difficultés / biais du dataset,
-	* accompagner votre travail d'analyses statistiques de qualité.
+- [ ] produire des visualisations pertinentes expliquant la structure / difficultés / biais du dataset,
+- [ ] accompagner votre travail d'analyses statistiques de qualité.
 
-	Pour chaque visualisation, j’attends  : 
-	* Un commentaire précis, qui analyse la figure et apporte un avis “métier”.
-	* Une validation du constat par des manipulations de données, ou un test statistique.
+Pour chaque visualisation, j’attends  : 
+- [ ] Un commentaire précis, qui analyse la figure et apporte un avis “métier”.
+- [ ] Une validation du constat par des manipulations de données, ou un test statistique.
 
-	>* Deadline :  `Deadline Vendredi 5 Août 2022`
+>* Deadline :  `Deadline Vendredi 5 Août 2022`
 
 2. **Ingénierie du modèle statistique ou réalisation d'une analyse des données  :**
 ___
 
-	Si l'objectif est la création d'un modèle statistique, le pipeline d’ingénierie de modèle comprend un certain nombre d’opérations qui mènent à un modèle final  :  
+Si l'objectif est la création d'un modèle statistique, le pipeline d’ingénierie de modèle comprend un certain nombre d’opérations qui mènent à un modèle final  :  
 
-	* *Entrainement du modèle* : Consiste en l’application d’algorithmes d’apprentissage automatique sur les données d’apprentissage pour déterminer les paramètres des modèles. Cette étape comprend également l’ingénierie des fonctionnalités et le réglage des hyperparamètres (paramètres fixés en amont du processus d’apprentissage) pour l’activité d’entraînement des modèles. 
+- [ ] *Entrainement du modèle* : Consiste en l’application d’algorithmes d’apprentissage automatique sur les données d’apprentissage pour déterminer les paramètres des modèles. Cette étape comprend également l’ingénierie des fonctionnalités et le réglage des hyperparamètres (paramètres fixés en amont du processus d’apprentissage) pour l’activité d’entraînement des modèles. 
 
-	* *Évaluation & test de modèle* : Etape de validation du modèle entrainé pour s’assurer qu’il répond aux objectifs avant de déployer le modèle en production à destination de l’utilisateur final. Ensuite, exécution de tests d’évaluation du modèle final à l’aide du jeu de données de test. 
+- [ ] *Évaluation & test de modèle* : Etape de validation du modèle entrainé pour s’assurer qu’il répond aux objectifs avant de déployer le modèle en production à destination de l’utilisateur final. Ensuite, exécution de tests d’évaluation du modèle final à l’aide du jeu de données de test. 
 
-	* *Sérialisation de modèle* : C’est à ce niveau qu’on réalise l’export du modèle de ML final dans un format spécifique (par exemple, PMML, PFA ou ONNX), qui décrit le modèle, afin d’être consommé par les applications métiers ou des API. 
+- [ ] *Sérialisation de modèle* : C’est à ce niveau qu’on réalise l’export du modèle de ML final dans un format spécifique (par exemple, PMML, PFA ou ONNX), qui décrit le modèle, afin d’être consommé par les applications métiers ou des API. 
 
-	Par contre, si l'objectif est la l'utilisation des données nettoyées pour réaliser une analyse, vous n'aurez pas besoin d'effectuer les étapes ci-dessus.
+Par contre, si l'objectif est la l'utilisation des données nettoyées pour réaliser une analyse, vous n'aurez pas besoin d'effectuer les étapes ci-dessus.
 
-	Dans tous les cas, **4 itérations** sont attendues  : 
-	* *Itération 1*  :  Élaboration d’un modèle simple et premières itérations.
+Dans tous les cas, **4 itérations** sont attendues  : 
+
+- [ ] *Itération 1*  :  Élaboration d’un modèle simple et premières itérations.
 	`Deadline :  Jeudi 11 Août 2022`
 
-	* *Itération 2*  :  Interprétations  :  Cherchez à comprendre vos premiers résultats, vos premières erreurs etc. 
+- [ ] *Itération 2*  :  Interprétations  :  Cherchez à comprendre vos premiers résultats, vos premières erreurs etc. 
 	`Deadline :  Jeudi 1er Septembre 2022`
 
-	* *Itération 3*  :  Conclusions scientifiques et métiers en fonction du succès ou de l’échec de la modélisation. En cas d’échec, analysez les causes.
+- [ ] *Itération 3*  :  Conclusions scientifiques et métiers en fonction du succès ou de l’échec de la modélisation. En cas d’échec, analysez les causes.
 	`Deadline :  Vendredi 09 Septembre 2022`
 
-	* *Itération 4* :  Rapport de modélisation et nettoyage des codes.
+- [ ] *Itération 4* :  Rapport de modélisation et nettoyage des codes.
 	`Deadline :  Vendredi 16 Septembre 2022`
 
-	A l'issue des précédentes itérations, vous devrez alors rendre votre **rapport final ainsi que vos codes** pour le `Vendredi 23 Septembre 2022`.
+A l'issue des précédentes itérations, vous devrez alors rendre votre **rapport final ainsi que vos codes** pour le `Vendredi 23 Septembre 2022`.
 
 3. **Préparation de la soutenance  :** `Deadline :  Mercredi 12 / Jeudi 13 Octobre 2022`
 ___
 
-	Cette dernière étape servira à développer **une application web interactive** grâce à la librairie **Streamlit** qui servira de vitrine pour partager votre projet.
+Cette dernière étape servira à développer **une application web interactive** grâce à la librairie **Streamlit** qui servira de vitrine pour partager votre projet.
 
-	Il faudra que : 
-	* votre application soit esthétique,
-	* votre application soit codée avec soin,
-	* votre application fonctionne sans bugs.
+Il faudra que : 
 
-	La soutenance se compose de : 
-	* 20 minutes de présentation,
-	* 10 minutes de questions de la part d'un jury
+* votre application soit esthétique,
+* votre application soit codée avec soin,
+* votre application fonctionne sans bugs.
 
-	Pour la soutenance, vous avez les possibilités : 
-	* soit de réaliser une présentation Powerpoint + Démo Streamlit
-	* soit de réaliser toute la présentation avec votre application Streamlit
+La soutenance se compose de : 
 
-	Vous devrez alors adapter vos résultats pour qu’ils soient présentables en le temps imparti.
+* 20 minutes de présentation,
+* 10 minutes de questions de la part d'un jury
+
+Pour la soutenance, vous avez les possibilités :
+
+* soit de réaliser une présentation Powerpoint + Démo Streamlit
+* soit de réaliser toute la présentation avec votre application Streamlit
+
+Vous devrez alors adapter vos résultats pour qu’ils soient présentables en le temps imparti.
 
 Vous l’aurez compris, le projet demande une certaine implication et constitue pour cette raison un pilier de votre formation.
 
