@@ -24,14 +24,14 @@ Concrètement dans le cadre de projet chez DataScientest, il vous suffit de suiv
 
 0. **Cadrage  :**  Définition du contexte et du périmètre du projet
 
-Lors de cette première étape, j’attends que : 
+	Lors de cette première étape, j’attends que : 
 
-* vous preniez vraiment le temps de bien comprendre le projet et de vous renseigner au mieux sur les notions que celui-ci va introduire,
-* vous donniez un nom plutôt créatif à votre projet (contenant ‘Py’ en référence à **Python** par exemple).
+	* vous preniez vraiment le temps de bien comprendre le projet et de vous renseigner au mieux sur les notions que celui-ci va introduire,
+	* vous donniez un nom plutôt créatif à votre projet (contenant ‘Py’ en référence à **Python** par exemple).
 
-Ce dernier point nous permettra par la suite d'instancier éventuellement un répertoire **GitHub**.
+	Ce dernier point nous permettra par la suite d'instancier éventuellement un répertoire **GitHub**.
 
->* Deadline `Vendredi 30 Juillet 2022`
+	>* Deadline `Vendredi 30 Juillet 2022`
 	
 1. **Ingénierie des données + EDA  :**
 
