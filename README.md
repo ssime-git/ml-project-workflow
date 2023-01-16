@@ -22,7 +22,7 @@ Les applications basées sur l'intelligence artificielle comprennent trois princ
 
 Concrètement dans le cadre de projet chez DataScientest, il vous suffit de suivre les étapes suivantes : 
 
-## 0. **Cadrage  :**  Définition du contexte et du périmètre du projet
+## 0. **Cadrage  :**  Définition du contexte et du périmètre du projet * Deadline :  `Deadline Vendredi 5 Août 2022`
 
 Lors de cette première étape, j’attends que : 
 
@@ -56,7 +56,6 @@ Pour chaque visualisation, j’attends  :
 - [ ] Un commentaire précis, qui analyse la figure et apporte un avis “métier”.
 - [ ] Une validation du constat par des manipulations de données, ou un test statistique.
 
->* Deadline :  `Deadline Vendredi 5 Août 2022`
 
 ## 2. **Ingénierie du modèle statistique ou réalisation d'une analyse des données  :**
 
