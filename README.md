@@ -22,8 +22,7 @@ Les applications basées sur l'intelligence artificielle comprennent trois princ
 
 Concrètement dans le cadre de projet chez DataScientest, il vous suffit de suivre les étapes suivantes : 
 
-0. **Cadrage  :**  Définition du contexte et du périmètre du projet
-___
+## 0. **Cadrage  :**  Définition du contexte et du périmètre du projet
 
 Lors de cette première étape, j’attends que : 
 
@@ -34,8 +33,7 @@ Ce dernier point nous permettra par la suite d'instancier éventuellement un ré
 
 >* Deadline `Vendredi 30 Juillet 2022`
 	
-1. **Ingénierie des données + EDA  :**
-___
+## 1. **Ingénierie des données + EDA  :**
 
 Quelques étapes de ce processus sont données ci-dessous  :   
 
@@ -60,8 +58,7 @@ Pour chaque visualisation, j’attends  :
 
 >* Deadline :  `Deadline Vendredi 5 Août 2022`
 
-2. **Ingénierie du modèle statistique ou réalisation d'une analyse des données  :**
-___
+## 2. **Ingénierie du modèle statistique ou réalisation d'une analyse des données  :**
 
 Si l'objectif est la création d'un modèle statistique, le pipeline d’ingénierie de modèle comprend un certain nombre d’opérations qui mènent à un modèle final  :  
 
@@ -89,8 +86,7 @@ Dans tous les cas, **4 itérations** sont attendues  :
 
 A l'issue des précédentes itérations, vous devrez alors rendre votre **rapport final ainsi que vos codes** pour le `Vendredi 23 Septembre 2022`.
 
-3. **Préparation de la soutenance  :** `Deadline :  Mercredi 12 / Jeudi 13 Octobre 2022`
-___
+## 3. **Préparation de la soutenance  :** `Deadline :  Mercredi 12 / Jeudi 13 Octobre 2022`
 
 Cette dernière étape servira à développer **une application web interactive** grâce à la librairie **Streamlit** qui servira de vitrine pour partager votre projet.
 
