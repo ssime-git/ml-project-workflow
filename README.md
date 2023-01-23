@@ -14,7 +14,13 @@ Vous trouverez ci-dessus une vue d’ensemble d’un flux de travail typique pou
 * soit l'utilisation des données pour **réaliser l'analyse approfondie d'une problématique**.
 
  
-Les applications basées sur l'intelligence artificielle comprennent trois principaux artefacts :  les données, le modèle de ML et le code utilisé pour développer l’application. Correspondant à ces artefacts, le flux de travail typique se compose de trois phases principales  :  
+Les applications basées sur l'intelligence artificielle comprennent trois principaux artefacts :  
+
+* les données, 
+* le modèle de ML 
+* le code utilisé pour développer l’application. 
+
+Correspondant à ces artefacts, le flux de travail typique se compose de trois phases principales  :  
 
 * **Data Engineering**  :  acquisition et préparation des données, 
 * **Ingénierie du modèle de ML** (`dans le cas de développement d'un modèle statistique`) :  sélection et entrainement du modèle de ML & sérialisation de ce dernier, 
@@ -22,7 +28,7 @@ Les applications basées sur l'intelligence artificielle comprennent trois princ
 
 Concrètement dans le cadre de projet chez DataScientest, il vous suffit de suivre les étapes suivantes : 
 
-## 0. **Cadrage  :**  Définition du contexte et du périmètre du projet * Deadline :  `Deadline Vendredi 5 Août 2022`
+## 0. **Cadrage  :**  Définition du contexte et du périmètre du projet **Deadline :  `Deadline Vendredi 03 Février 2023`**
 
 Lors de cette première étape, j’attends que : 
 
@@ -31,9 +37,8 @@ Lors de cette première étape, j’attends que :
 
 Ce dernier point nous permettra par la suite d'instancier éventuellement un répertoire **GitHub**.
 
->* Deadline `Vendredi 30 Juillet 2022`
 	
-## 1. **Ingénierie des données + EDA  :**
+## 1. **Ingénierie des données + exploration des données  :** **Deadline :  `Deadline Jeudi 16 Mars 2023`**
 
 Quelques étapes de ce processus sont données ci-dessous  :   
 
@@ -57,7 +62,7 @@ Pour chaque visualisation, j’attends  :
 - [ ] Une validation du constat par des manipulations de données, ou un test statistique.
 
 
-## 2. **Ingénierie du modèle statistique ou réalisation d'une analyse des données  :**
+## 2. **Ingénierie du modèle statistique ou réalisation d'une analyse des données  :** **`Deadline :  Jeudi 13 Juillet 2023`**
 
 Si l'objectif est la création d'un modèle statistique, le pipeline d’ingénierie de modèle comprend un certain nombre d’opérations qui mènent à un modèle final  :  
 
@@ -72,20 +77,20 @@ Par contre, si l'objectif est la l'utilisation des données nettoyées pour réa
 Dans tous les cas, **4 itérations** sont attendues  : 
 
 - [ ] *Itération 1*  :  Élaboration d’un modèle simple et premières itérations.
-	`Deadline :  Jeudi 11 Août 2022`
+	**`Deadline :  Jeudi 13 avril 2023`**
 
 - [ ] *Itération 2*  :  Interprétations  :  Cherchez à comprendre vos premiers résultats, vos premières erreurs etc. 
-	`Deadline :  Jeudi 1er Septembre 2022`
+	**`Deadline :  Jeudi 04 Mai 2023`**
 
 - [ ] *Itération 3*  :  Conclusions scientifiques et métiers en fonction du succès ou de l’échec de la modélisation. En cas d’échec, analysez les causes.
-	`Deadline :  Vendredi 09 Septembre 2022`
+	**`Deadline :  Jeudi 1er Juin 2023`**
 
 - [ ] *Itération 4* :  Rapport de modélisation et nettoyage des codes.
-	`Deadline :  Vendredi 16 Septembre 2022`
+	**`Deadline :  Jeudi 13 Juillet 2023`**
 
 A l'issue des précédentes itérations, vous devrez alors rendre votre **rapport final ainsi que vos codes** pour le `Vendredi 23 Septembre 2022`.
 
-## 3. **Préparation de la soutenance  :** `Deadline :  Mercredi 12 / Jeudi 13 Octobre 2022`
+## 3. **Préparation de la soutenance  :** `Deadline :  28 Août 2023`
 
 Cette dernière étape servira à développer **une application web interactive** grâce à la librairie **Streamlit** qui servira de vitrine pour partager votre projet.
 
